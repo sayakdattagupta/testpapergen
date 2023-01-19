@@ -1,0 +1,3 @@
+python-docx
+bs4
+requests
